@@ -1,0 +1,27 @@
+.table {
+    width: 600px;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.header {
+    border: 1px solid black;
+    padding: 4px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.row:nth-child(2n) {
+    background-color: rgb(214, 214, 214);
+}
+
+.cell {
+    padding: 12px 0;
+    text-align: center;
+    text-transform: capitalize;
+    border: 2px solid black;
+}
+
+
+

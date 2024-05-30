@@ -1,0 +1,15 @@
+.friend {
+    text-align: center;
+}
+
+.name {
+    font-size: 20px;
+}
+
+.online {
+    color: red;
+}
+
+.offline {
+    color: green;
+}
